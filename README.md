@@ -1,0 +1,2 @@
+THE CODE HELPS IN CREATING AN OPCUA SERVER THAT CAN READ CONFIG FILES VIA THEIR PATHS AND WE CAN VISUALISE THE NODES DEFINED INSIDE THE CONFIG FILE VIA MY CLIENT GUI OR ANY OTHER CLIENT LIKE uaEXPERT:
+Remember when running in terminal, write ---------------------- python timserver.py --config "path to config file"
